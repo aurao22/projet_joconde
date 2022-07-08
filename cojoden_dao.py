@@ -116,7 +116,7 @@ def populate_metiers(dataset_path, file_name=r'cojoden_metiers_uniques.csv', ver
             df.to_csv(join(dataset_path,file_name.replace(".csv", "-v2.csv")), index=False)
         dbConnection =_create_engine(verbose=verbose)
         try:
-            nb_pop = df.to_sql(name='metier', con=dbConnection, if_exists='append', index=False)
+            nb_pop = df.to_sql(name='metier', con=dbConnection, if_exists='append', index=False, chunksize=10)
         except mysql.connector.IntegrityError as error:
             nb_pop = 0
             if verbose > 0:
@@ -160,7 +160,35 @@ def populate_villes(dataset_path, file_name=r'cojoden_villes_departement_region_
     return nb_pop
 
 def populate_artistes(dataset_path, file_name=r'cojoden_artistes.csv', verbose=0):
-    pass
+    nb_pop = -1
+    file_path = join(dataset_path, file_name)
+
+    if exists(file_path):
+        # csv : nom_naissance,nom_dit,nom_search
+        # BDD : id, nom_naissance,nom_dit,nom_search, commentaire
+        df = pd.read_csv(file_path)
+        if 'nom_search' not in list(df.columns):
+            df['nom_search'] = df['nom_naissance']
+            df = convert_df_string_to_search_string(df, col_name='nom_search')
+            df = df[['nom_naissance', 'nom_dit', 'nom_search']]
+            df = df.sort_values('nom_search')
+            df = df.drop_duplicates('nom_search')
+            df.to_csv(join(dataset_path,file_name.replace(".csv", "-v2.csv")), index=False)
+        dbConnection =_create_engine(verbose=verbose)
+        try:
+            nb_pop = df.to_sql(name='artiste', con=dbConnection, if_exists='append', index=False, chunksize=1)
+        except mysql.connector.IntegrityError as error:
+            nb_pop = 0
+            if verbose > 0:
+                print(f"[cojoden_dao > populate_artistes] WARNING : la table est déjà peuplée.\n\t- {error}")
+        except Exception as error:
+            if  "IntegrityError" in str(error):
+                nb_pop = 0
+                if verbose > 0:
+                    print(f"[cojoden_dao > populate_artistes] WARNING : la table est déjà peuplée.\n\t- {error}")
+            else:
+                raise error
+    return nb_pop
 
 
 # ----------------------------------------------------------------------------------
@@ -230,10 +258,12 @@ def _create_engine(verbose=0):
 #                        MAIN
 # ----------------------------------------------------------------------------------
 if __name__ == '__main__':
-
-    nb = populate_metiers(dataset_path=r'C:\Users\User\WORK\workspace-ia\PROJETS\projet_cojoden\dataset', file_name=r'cojoden_metiers_uniques.txt', verbose=1)
-    print(nb)
-    nb = populate_villes(dataset_path=r'C:\Users\User\WORK\workspace-ia\PROJETS\projet_cojoden\dataset')
-    print(nb)
-    nb = populate_musees(dataset_path=r'C:\Users\User\WORK\workspace-ia\PROJETS\projet_cojoden\dataset', file_name=r'cojoden_musees.csv')
-    print(nb)
+    dataset_path=r'C:\Users\User\WORK\workspace-ia\PROJETS\projet_joconde\dataset'
+    nb = populate_metiers(dataset_path=dataset_path, verbose=1)
+    print(f"{nb} metiers inserted")
+    nb = populate_villes(dataset_path=dataset_path, verbose=1)
+    print(f"{nb} villes inserted")
+    nb = populate_musees(dataset_path=dataset_path, verbose=1)
+    print(f"{nb} musees inserted")
+    nb = populate_artistes(dataset_path=dataset_path, verbose=1)
+    print(f"{nb} artistes inserted")
