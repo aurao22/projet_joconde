@@ -1,0 +1,76 @@
+
+    ID-notice: ref[text] Référence du bien culturel
+    POP_CONTIENT_GEOLOCALISATION: pop_contient_geolocalisation[text] Géolocalisation disponible ou non
+    POP_COORDONNEES: pop_coordonnees[geo_point_2d]
+    Ancien dépôt: adpt[text]
+    Appellation: appl[text] Appellation
+    APTN: aptn[text] Ancienne appartenance
+    ATTR: attr[text] Ancienne attribution
+    Auteur: autr[text] Auteur
+    BASE: base[text]
+    BIBL: bibl[text] Bibliographie
+    COMM: comm[text] Commentaires
+    CONTIENT_IMAGE: contient_image[text]
+    Source et date de la notice: copy[text]
+    Date d’acquisition: dacq[text]
+    Date de dépôt: ddpt[text]
+    Découverte: decv[text] Découverte
+    Dénomination: deno[text] Dénomination
+    Dépôt: depo[text] Lieu de dépôt
+    DESC: desc[text] Description
+    Dimensions: dims[text] Dimensions
+    Date de mise à jour: dmaj[date]
+    Date d’import: dmis[date] Date de création
+    Domaine: domn[text] Domaine
+    DPT: dpt[text] Département
+    DREP: drep[text] Date sujet représenté
+    Ecole: ecol[text] Ecole-pays
+    Epoque: epoq[text] Epoque
+    ETAT: etat[text] Etat du bien
+    EXPO: expo[text] Exposition
+    GENE: gene[text] Génèse
+    Géographie historique: geohi[text]
+    HIST: hist[text] Historique
+    HISTORIQUE: historique[text] Historique des interventions manuelle ou export des données
+    IMAGE: image[text]
+    INSC: insc[text] Inscriptions
+    Numéro de l’objet: inv[text] Numéro d’inventaire
+    Label Musée de France: label[text]
+    LARC: larc[text] Lien base Arcade
+    Lieu de création: lieux[text]
+    Lieu de conservation: loca[text] Lieu de conservation
+    LOCA2: loca2[text] Pays région ville
+    MANQUANT: manquant[text] Bien signalé manquant
+    MANQUANT_COM: manquant_com[text] Commentaires sur le bien manquant
+    Millésime: mill[text] Millésime de création
+    Millésime d’utilisation: milu[text]
+    MSGCOM: msgcom[text] Lien commande photo
+    Identifiant Museofile: museo[text]
+    NOMOFF: nomoff[text] Nom officiel du musée
+    NSDA: nsda[text] Numéro de site
+    Onomastique: onom[text]
+    Précisions sur l’auteur: paut[text]
+    PDEC: pdec[text] Précisions découverte/collecte
+    Période de l’original copié: peoc[text]
+    Période de création: peri[text] Période de création
+    Période d’utilisation: peru[text]
+    PHOT: phot[text] Crédits photographiques
+    PINS: pins[text] Précisions inscriptions
+    PLIEUX: plieux[text] Précisions lieux création
+    PREP: prep[text] Précisions sujet représenté
+    PRODUCTEUR: producteur[text] Producteur de la donnée
+    PUTI: puti[text] Précisions utilisation
+    REFMEM: refmem[text] Référence base Mémoire liées
+    REFMER: refmer[text] Référence base Mérimée liées
+    REFMIS: refmis[text] Référence MAJ
+    REFPAL: refpal[text] Référence base Palissy liées
+    REGION: region[text]
+    Sujet: repr[text] Sujet représenté
+    RETIF: retif[text] Lien INHA
+    Source de la représentation: srep[text]
+    Statut juridique: stat[text] Statut juridique
+    Matériaux-techniques: tech[text] Matériaux-techniques
+    Titre: titr[text] Titre
+    Utilisation: util[text]
+    WWW: www[text]
+    Ville_: ville_[text] Ville

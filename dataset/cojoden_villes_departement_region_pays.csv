@@ -1,0 +1,378 @@
+ville_search,ville,departement,region1,region2,pays
+ABBEVILLE,Abbeville,Somme,Picardie,Hauts-de-France,France
+AGDE,Agde,Hérault,Languedoc-Roussillon,Occitanie,France
+AGEN,Agen,Lot-et-Garonne,Aquitaine,Nouvelle-Aquitaine,France
+AIX EN PROVENCE,Aix-en-Provence,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,,France
+AIX LES BAINS,Aix-les-Bains,Paris,Ile-de-France,,France
+AJACCIO,Ajaccio,Corse-du-Sud,Corse,,France
+ALENCON,Alençon,Orne,Picardie,Hauts-de-France,France
+ALLEVARD,Allevard,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+ALTKIRCH,Altkirch,Haut-Rhin,Alsace,Grand Est,France
+AMBOISE,Amboise,Indre-et-Loire,Centre,Centre-Val de Loire,France
+AMIENS,Amiens,Somme,Picardie,Hauts-de-France,France
+ANGERS,Angers,Maine-et-Loire,Pays-de-la-Loire,,France
+ANNECY,Annecy,Haute-Savoie,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+ANTIBES,Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+AOSTE,Aoste,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+APT,Apt,Vaucluse,Provence-Alpes-Côte d'Azur,,France
+ARBOIS,Arbois,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+ARGENTEUIL,Argenteuil,Val-d'Oise,Ile-de-France,,France
+ARLES,Arles,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,,France
+ARRAS,Arras,Pas-de-Calais,Nord-Pas-de-Calais,Hauts-de-France,France
+AUBENAS,Aubenas,Yvelines,Ile-de-France,,France
+AUCH,Auch,Gers,Midi-Pyrénées,Occitanie,France
+AUTUN,Autun,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+AUVERS SUR OISE,Auvers-sur-Oise,Val d'Oise,Ile-de-France,,France
+AUXERRE,Auxerre,Yonne,Bourgogne,Bourgogne-Franche-Comté,France
+AUXONNE,Auxonne,Côte-d'Or,Bourgogne,Bourgogne-Franche-Comté,France
+AVALLON,Avallon,Yonne,Bourgogne,Bourgogne-Franche-Comté,France
+AVIGNON,Avignon,Vaucluse,Provence-Alpes-Côte d'Azur,,France
+AVRANCHES,Avranches,Manche,Basse-Normandie,Normandie,France
+AZAY LE RIDEAU,Azay-le-Rideau,Yvelines,Ile-de-France,,France
+BAGNERES DE BIGORRE,Bagnères-de-Bigorre,Hautes-Pyrénées,Midi-Pyrénées,Occitanie,France
+BAGNOLS SUR CEZE,Bagnols-sur-Cèze,Gard,Languedoc-Roussillon,Occitanie,France
+BAR LE DUC,Bar-le-Duc,Meuse,Lorraine,Grand Est,France
+BARCELONNETTE,Barcelonnette,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,,France
+BARENTIN,Barentin,Seine-Maritime,Haute-Normandie,Normandie,France
+BASTIA,Bastia,Corse-du-Sud,Corse,,France
+BAUD,Baud,Morbihan,Bretagne,,France
+BAYEUX,Bayeux,Calvados,Basse-Normandie,Normandie,France
+BAYONNE,Bayonne,Pyrénées-Atlantiques,Aquitaine,Nouvelle-Aquitaine,France
+BEAUNE,Beaune,Côte-d'Or,Bourgogne,Bourgogne-Franche-Comté,France
+BEAUVAIS,Beauvais,Oise,Picardie,Hauts-de-France,France
+BELFORT,Belfort,Territoire de Belfort,Franche-Comté,Bourgogne-Franche-Comté,France
+BERNAY,Bernay,Eure,Haute-Normandie,Normandie,France
+BESANCON,Besançon,Doubs,Franche-Comté,Bourgogne-Franche-Comté,France
+BETHUNE,Béthune,Pas-de-Calais,Nord-Pas-de-Calais,Hauts-de-France,France
+BIESHEIM,Biesheim,Haut-Rhin,Alsace,Grand Est,France
+BIOT,Biot,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+BLERANCOURT,Blérancourt,Aisne,Picardie,Hauts-de-France,France
+BLOIS,Blois,Loir-et-Cher,Centre,Centre-Val de Loire,France
+BONN,Bonn,,,,Allemagne
+BORDEAUX,Bordeaux,Gironde,Aquitaine,Nouvelle-Aquitaine,France
+BOULOGNE SUR MER,Boulogne-sur-Mer,Pas-de-Calais,Nord-Pas-de-Calais,Hauts-de-France,France
+BOURBON LANCY,Bourbon-Lancy,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+BOURG EN BRESSE,Bourg-en-Bresse,Ain,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+BOURG SAINT MAURICE,Bourg-Saint-Maurice,Savoie,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+BOURGES,Bourges,Cher,Centre,Centre-Val de Loire,France
+BOURGOIN JALLIEU,Bourgoin-Jallieu,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+BOURNEVILLE,Bourneville,Eure,Haute-Normandie,Normandie,France
+BOUXWILLER,Bouxwiller,Bas-Rhin,Alsace,Grand Est,France
+BREST,Brest,Finistère,Bretagne,,France
+BRIANCON,Briançon,,,,France
+BRUNOY,Brunoy,Essonne,Ile-de-France,,France
+BRUXELLES,Bruxelles,,,,Belgique
+BRY SUR MARNE,Bry-sur-Marne,Val-de-Marne,Ile-de-France,,France
+CAEN,Caen,Calvados,Basse-Normandie,Normandie,France
+CAHORS,Cahors,Lot,Midi-Pyrénées,Occitanie,France
+CALAIS,Calais,Pas-de-Calais,Nord-Pas-de-Calais,Hauts-de-France,France
+CAMBRAI,Cambrai,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+CANNES,Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+CARCASSONNE,Carcassonne,Aude,Languedoc-Roussillon,Occitanie,France
+CARPENTRAS,Carpentras,Paris,Ile-de-France,,France
+CASSEL,Cassel,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+CASTELLARE DI MERCURIO,Castellare-di-Mercurio,,Corse,,France
+CASTRES,Castres,Tarn,Midi-Pyrénées,Occitanie,France
+CAUDEBEC EN CAUX,Caudebec-en-Caux,Seine-Maritime,Haute-Normandie,Normandie,France
+CERET,Céret,Pyrénées-Orientales,Languedoc-Roussillon,Occitanie,France
+CHALON SUR SAÔNE,Chalon-sur-Saône,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+CHALONS EN CHAMPAGNE,Châlons-en-Champagne,Marne,Champagne-Ardenne,Grand Est,France
+CHAMBERY,Chambéry,Savoie,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+CHAMBORD,Chambord,Loir-et-Cher,Centre,Centre-Val de Loire,France
+CHAMPLITTE,Champlitte,Haute-Saône,Franche-Comté,Bourgogne-Franche-Comté,France
+CHANTILLY,Chantilly,Oise,Picardie,Hauts-de-France,France
+CHARLEVILLE MEZIERES,Charleville-Mézières,Ardennes,Grand Est,,France
+CHARLIEU,Charlieu,Loire,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+CHAROLLES,Charolles,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+CHARTRES,Chartres,Eure-et-Loir,Centre,Centre-Val de Loire,France
+CHARTRES MAINVILLIERS,Chartres-Mainvilliers,Eure-et-Loir,Centre,Centre-Val de Loire,France
+CHATEAU THIERRY,Château-Thierry,Aisne,Picardie,Hauts-de-France,France
+CHATEAUNEUF SUR LOIRE,Châteauneuf-sur-Loire,Loiret,Centre,Centre-Val de Loire,France
+CHATEAUROUX,Châteauroux,Indre,Centre,Centre-Val de Loire,France
+CHATELLERAULT,Châtellerault,Vienne,Poitou-Charentes,Nouvelle-Aquitaine,France
+CHAUVIGNY,Chauvigny,Vienne,Poitou-Charentes,Nouvelle-Aquitaine,France
+CHERBOURG EN COTENTIN,Cherbourg-en-Cotentin,Manche,Basse-Normandie,Normandie,France
+CHOLET,Cholet,Maine-et-Loire,Pays-de-la-Loire,,France
+CLAMECY,Clamecy,Nièvre,Bourgogne,Bourgogne-Franche-Comté,France
+CLERMONT FERRAND,Clermont-Ferrand,Puy-de-Dôme,Auvergne,Auvergne-Rhône-Alpes,France
+CLUNY,Cluny,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+COGNAC,Cognac,Charente-Maritime,Poitou-Charentes,Nouvelle-Aquitaine,France
+COLMAR,Colmar,Haut-Rhin,Alsace,Grand Est,France
+COLOMBES,Colombes,Hauts-de-Seine,Ile-de-France,,France
+COMPIEGNE,Compiègne,Oise,Picardie,Hauts-de-France,France
+CONCARNEAU,Concarneau,Finistère,Bretagne,,France
+COSNE COURS SUR LOIRE,Cosne-Cours-sur-Loire,Nièvre,Bourgogne,Bourgogne-Franche-Comté,France
+COSSE LE VIVIEN,Cossé-le-Vivien,Mayenne,Pays-de-la-Loire,,France
+COURPALAY,Courpalay,Paris,Ile-de-France,,France
+CREIL,Creil,Oise,Picardie,Hauts-de-France,France
+DAX,Dax,Landes,Aquitaine,Nouvelle-Aquitaine,France
+DIEPPE,Dieppe,Seine-Maritime,Haute-Normandie,Normandie,France
+DIGNE LES BAINS,Digne-Les-Bains,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,,France
+DIJON,Dijon,Côte-d'Or,Bourgogne,Bourgogne-Franche-Comté,France
+DINAN,Dinan,Côtes-d'Armor,Bretagne,,France
+DOLE,Dole,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+DOUAI,Douai,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+DREUX,Dreux,Eure-et-Loir,Centre,Centre-Val de Loire,France
+DUBLIN,Dublin,,,,République d'Irlande
+DUNKERQUE,Dunkerque,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+EAUZE,Eauze,Gers,Midi-Pyrénées,Occitanie,France
+ECOUEN,Ecouen,Val-d'Oise,Ile-de-France,,France
+ELBEUF SUR SEINE,Elbeuf-sur-Seine,Seine-Maritime,Haute-Normandie,Normandie,France
+EPERNAY,Epernay,Paris,Ile-de-France,,France
+EPINAL,Epinal,Vosges,Lorraine,Grand Est,France
+ETUEFFONT,Etueffont,Territoire de Belfort,Bourgogne-Franche-Comté,,France
+EU,Eu,Seine-Maritime,Haute-Normandie,Normandie,France
+EVREUX,Evreux,Eure,Haute-Normandie,Normandie,France
+FECAMP,Fécamp,Seine-Maritime,Haute-Normandie,Normandie,France
+FEURS,Feurs,Loire,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+FIGEAC,Figeac,Lot,Midi-Pyrénées,Occitanie,France
+FONTAINE DE VAUCLUSE,Fontaine-de-Vaucluse,Vaucluse,Provence-Alpes-Côte d'Azur,,France
+FONTAINEBLEAU,Fontainebleau,Seine-et-Marne,Ile-de-France,,France
+FORCALQUIER,Forcalquier,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,,France
+FORT DE FRANCE,Fort-de-France,Martinique,,,France
+GAP,Gap,Hautes Alpes,rovence-Alpes-Côte d'Azur,France
+GIEN,Gien,Loiret,Centre,Centre-Val de Loire,France
+GRANVILLE,Granville,Manche,Basse-Normandie,Normandie,France
+GRASSE,Grasse,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+GRAY,Gray,Haute-Saône,Franche-Comté,Bourgogne-Franche-Comté,France
+GRENOBLE,Grenoble,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+GUERET,Guéret,Creuse,Limousin,Nouvelle-Aquitaine,France
+GUIRY EN VEXIN,Guiry-en-Véxin,Val-d'Oise,Ile-de-France,,France
+HONFLEUR,Honfleur,Calvados,Basse-Normandie,Normandie,France
+HORNU,Hornu,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+HYERES,Hyères,Var,Provence-Alpes-Côte d'Azur,,France
+ISSOUDUN,Issoudun,Indre,Centre,Centre-Val de Loire,France
+ISSY LES MOULINEAUX,Issy-les-Moulineaux,Hauts-de-Seine,Ile-de-France,,France
+JUBLAINS,Jublains,Mayenne,Pays-de-la-Loire,,France
+L ISLE ADAM,L'Isle-Adam,Val-d'Oise,Ile-de-France,,France
+LA CHATRE,La Châtre,Indre,Centre,Centre-Val de Loire,France
+LA COUTURE BOUSSEY,La Couture-Boussey,Eure,Haute-Normandie,Normandie,France
+LA FLECHE,La Flèche,Yvelines,Ile-de-France,,France
+LA ROCHE SUR YON,La Roche-sur-Yon,Vendée,Pays-de-la-Loire,,France
+LA ROCHELLE,La Rochelle,Charente-Maritime,Poitou-Charentes,Nouvelle-Aquitaine,France
+LA TRONCHE,La Tronche,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+LAFRANCAISE,Lafrançaise,Paris,Ile-de-France,,France
+LAGNY SUR MARNE,Lagny-sur-Marne,Seine-et-Marne,Ile-de-France,,France
+LANGRES,Langres,Haute-Marne,Champagne-Ardenne,Grand Est,France
+LAON,Laon,Aisne,Picardie,Hauts-de-France,France
+LATTES,Lattes,Hérault,Languedoc-Roussillon,Occitanie,France
+LAVAL,Laval,Mayenne,Pays-de-la-Loire,,France
+LAVAUR,Lavaur,Tarn,Midi-Pyrénées,Occitanie,France
+LE BOURGET,Le Bourget,Seine-Saint-Denis,Ile-de-France,,France
+LE CATEAU CAMBRESIS,Le Cateau-Cambrésis,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+LE CREUSOT,Le Creusot,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+LE GRAND PRESSIGNY,Le Grand-Pressigny,Indre-et-Loire,Centre,Centre-Val de Loire,France
+LE HAVRE,Le Havre,Seine-Maritime,Haute-Normandie,Normandie,France
+LE MANS,Le Mans,Sarthe,Pays-de-la-Loire,,France
+LE MEE SUR SEINE,Le Mée-sur-Seine,Seine-et-Marne,Ile-de-France,,France
+LE PALLET,Le Pallet,Loire-Atlantique,Pays-de-la-Loire,,France
+LE PUY EN VELAY,Le Puy-en-Velay,Haute-Loire,Auvergne,Auvergne-Rhône-Alpes,France
+LE VATICAN,Le Vatican,,,,Italie
+LE VIGAN,Le Vigan,Gard,Languedoc-Roussillon,Occitanie,France
+LENS,Lens,Pas-de-Calais,Nord-Pas-de-Calais,Hauts-de-France,France
+LES ANDELYS,Les Andelys,Loire-Atlantique,Pays-de-la-Loire,,France
+LES LUCS SUR BOULOGNE,Les Lucs-sur-Boulogne,Vendée,Pays-de-la-Loire,,France
+LEZOUX,Lezoux,Puy-de-Dôme,Auvergne,Auvergne-Rhône-Alpes,France
+LIBOURNE,Libourne,Gironde,Aquitaine,Nouvelle-Aquitaine,France
+LILLE,Lille,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+LIMOGES,Limoges,Haute-Vienne,Limousin,Nouvelle-Aquitaine,France
+LISIEUX,Lisieux,Calvados,Basse-Normandie,Normandie,France
+LISLE SUR TARN,Lisle-sur-Tarn,Tarn,Midi-Pyrénées,Occitanie,France
+LOCHES,Loches,Indre-et-Loire,Centre,Centre-Val de Loire,France
+LONDRES,Londres,,,,Grande-Bretagne
+LONGWY,Longwy,Meurthe-et-Moselle,Lorraine,Grand Est,France
+LONS LE SAUNIER,Lons-le-Saunier,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+LORIENT,Lorient,Morbihan,Bretagne,,France
+LOUVIERS,Louviers,Eure,Haute-Normandie,Normandie,France
+LOUVRES,Louvres,Val-d'Oise,Ile-de-France,,France
+LUNEVILLE,Lunéville,Meurthe-et-Moselle,Lorraine,Grand Est,France
+LUXEMBOURG,Luxembourg,,,,Luxembourg
+LYON,Lyon,Rhône,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+MACON,Mâcon,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+MAGNY LES HAMEAUX,Magny-les-Hameaux,Yvelines,Ile-de-France,,France
+MAISONS ALFORT,Maisons-Alfort,Val-de-Marne,Ile-de-France,,France
+MAISONS LAFFITTE,Maisons-Laffitte,Yvelines,Ile-de-France,,France
+MALIBU,Malibu,Paris,Ile-de-France,,France
+MANE,Mane,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,,France
+MARLY LE ROI,Marly-le-Roi,Yvelines,Ile-de-France,,France
+MARSEILLE,Marseille,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,,France
+MARTAINVILLE EPREVILLE,Martainville-Epreville,Seine-Maritime,Haute-Normandie,Normandie,France
+MARTIGUES,Martigues,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,,France
+MAUBEUGE,Maubeuge,Paris,Ile-de-France,,France
+MEAUX,Meaux,Seine-et-Marne,Ile-de-France,,France
+MEHUN SUR YEVRE,Mehun-sur-Yèvre,Cher,Centre,Centre-Val de Loire,France
+MEISENTHAL,Meisenthal,Moselle,Lorraine,Grand Est,France
+MELUN,Melun,Seine-et-Marne,Ile-de-France,,France
+MERU,Méru,Oise,Picardie,Hauts-de-France,France
+METZ,Metz,Moselle,Lorraine,Grand Est,France
+MEUDON,Meudon,Hauts-de-Seine,Ile-de-France,,France
+MIRANDE,Mirande,Paris,Ile-de-France,,France
+MIRECOURT,Mirecourt,Vosges,Lorraine,Grand Est,France
+MOIRANS EN MONTAGNE,Moirans-en-Montagne,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+MONT DE MARSAN,Mont-de-Marsan,Landes,Aquitaine,Nouvelle-Aquitaine,France
+MONTARGIS,Montargis,Loiret,Centre,Centre-Val de Loire,France
+MONTAUBAN,Montauban,Tarn-et-Garonne,Midi-Pyrénées,Occitanie,France
+MONTBARD,Montbard,Côte-d'Or,Bourgogne,Bourgogne-Franche-Comté,France
+MONTBELIARD,Montbéliard,Doubs,Franche-Comté,Bourgogne-Franche-Comté,France
+MONTBRISON,Montbrison,Loire,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+MONTIGNY LE BRETONNEUX,Montigny-le-Bretonneux,Yvelines,Ile-de-France,,France
+MONTLUCON,Montluçon,Paris,Ile-de-France,,France
+MONTMEDY,Montmédy,Meuse,Lorraine,Grand Est,France
+MONTMORENCY,Montmorency,Val-d'Oise,Ile-de-France,,France
+MONTPELLIER,Montpellier,Hérault,Languedoc-Roussillon,Occitanie,France
+MONTREUIL,Montreuil,Seine-Saint-Denis,Ile-de-France,,France
+MOREZ,Morez,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+MORLAIX,Morlaix,Finistère,Bretagne,,France
+MOULINS,Moulins,Allier,Auvergne,Auvergne-Rhône-Alpes,France
+MOUTIERS,Moutiers,Savoie,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+MURET,Muret,Yvelines,Ile-de-France,,France
+NANCRAY,Nancray,Doubs,Franche-Comté,Bourgogne-Franche-Comté,France
+NANCY,Nancy,Meurthe-et-Moselle,Lorraine,Grand Est,France
+NANTES,Nantes,Loire-Atlantique,Pays-de-la-Loire,,France
+NARBONNE,Narbonne,Aude,Languedoc-Roussillon,Occitanie,France
+NEMOURS,Nemours,Seine-et-Marne,Ile-de-France,,France
+NERAC,Nérac,Lot-et-Garonne,Aquitaine,Nouvelle-Aquitaine,France
+NEUVIC,Neuvic,Paris,Ile-de-France,,France
+NEVERS,Nevers,Nièvre,Bourgogne,Bourgogne-Franche-Comté,France
+NICE,Nice,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+NIEDERBRONN LES BAINS,Niederbronn-les-Bains,Bas-Rhin,Alsace,Grand Est,France
+NIMES,Nîmes,Gard,Languedoc-Roussillon,Occitanie,France
+NIORT,Niort,Deux-Sèvres,Poitou-Charentes,Nouvelle-Aquitaine,France
+NOGENT SUR SEINE,Nogent-sur-Seine,Aube,Champagne-Ardenne,Grand Est,France
+NOIRMOUTIER,Noirmoutier,Vendée,Pays-de-la-Loire,,France
+NOTRE DAME DE BLIQUETUIT,Notre-Dame-de-Bliquetuit,Seine-Maritime,Haute-Normandie,Normandie,France
+NOTRE DAME DE BONDEVILLE,Notre-Dame-de-Bondeville,Seine-Maritime,Haute-Normandie,Normandie,France
+NOYANT VILLAGE,Noyant-Village,Maine-et-Loire,Pays-de-la-Loire,,France
+NOYON,Noyon,Oise,Picardie,Hauts-de-France,France
+NOZIERES,Nozières,Yvelines,Ile-de-France,,France
+NUITS SAINT GEORGES,Nuits-Saint-Georges,Côte-d'Or,Bourgogne,Bourgogne-Franche-Comté,France
+ORLEANS,Orléans,Loiret,Centre,Centre-Val de Loire,France
+PARAY LE MONIAL,Paray-le-Monial,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+PARIS,Paris,Paris,Ile-de-France,,France
+PAU,Pau,Pyrénées-Atlantiques,Aquitaine,Nouvelle-Aquitaine,France
+PERIGUEUX,Périgueux,Dordogne,Aquitaine,Nouvelle-Aquitaine,France
+PERONNE,Péronne,Somme,Picardie,Hauts-de-France,France
+PERPIGNAN,Perpignan,Pyrénées-Orientales,Languedoc-Roussillon,Occitanie,France
+PETIT COURONNE,Petit-Couronne,Seine-Maritime,Haute-Normandie,Normandie,France
+PFAFFENHOFFEN,Pfaffenhoffen,Bas-Rhin,Alsace,Grand Est,France
+PHALSBOURG,Phalsbourg,Moselle,Lorraine,Grand Est,France
+PITHIVIERS,Pithiviers,Loiret,Centre,Centre-Val de Loire,France
+PLOMBIERES,Plombières,Vosges,Lorraine,Grand Est,France
+PLOMBIERES LES BAINS,Plombières-les-Bains,Paris,Ile-de-France,,France
+POINTE A PITRE,Pointe-à-Pitre,Guadeloupe,Guadeloupe,,France
+POISSY,Poissy,Yvelines,Ile-de-France,,France
+POITIERS,Poitiers,Vienne,Poitou-Charentes,Nouvelle-Aquitaine,France
+POLIGNY,Poligny,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+PONT AUDEMER,Pont-Audemer,Eure,Haute-Normandie,Normandie,France
+PONT AVEN,Pont-Aven,Finistère,Bretagne,,France
+PONTARLIER,Pontarlier,Doubs,Franche-Comté,Bourgogne-Franche-Comté,France
+PONTOISE,Pontoise,Val-d'Oise,Ile-de-France,,France
+PORT LOUIS,Port-Louis,Morbihan,Bretagne,,France
+PRAYSSAC,Prayssac,Paris,Ile-de-France,,France
+QUIMPER,Quimper,Finistère,Bretagne,,France
+QUINSON,Quinson,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,,France
+RAMBOUILLET,Rambouillet,Paris,Ile-de-France,,France
+REICHSHOFFEN,Reichshoffen,Bas-Rhin,Alsace,Grand Est,France
+REIMS,Reims,Marne,Champagne-Ardenne,Grand Est,France
+REMIREMONT,Remiremont,Vosges,Lorraine,Grand Est,France
+RENNES,Rennes,Ille-et-Vilaine,Bretagne,,France
+RIOM,Riom,Puy-de-Dôme,Auvergne,Auvergne-Rhône-Alpes,France
+RIXHEIM,Rixheim,Haut-Rhin,Alsace,Grand Est,France
+ROANNE,Roanne,Loire,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+ROCHECHOUART,Rochechouart,Haute-Vienne,Limousin,Nouvelle-Aquitaine,France
+ROCHEFORT,Rochefort,Charente-Maritime,Poitou-Charentes,Nouvelle-Aquitaine,France
+RODEZ,Rodez,Aveyron,Midi-Pyrénées,Occitanie,France
+ROMANS,Romans,Drôme,Poitou-Charentes,Nouvelle-Aquitaine,France
+ROME,Rome,,,,Italie
+ROUBAIX,Roubaix,Paris,Ile-de-France,,France
+ROUEN,Rouen,Seine-Maritime,Haute-Normandie,Normandie,France
+RUEIL MALMAISON,Rueil-Malmaison,Hauts-de-Seine,Ile-de-France,,France
+SAINT AMAND MONTROND,Saint-Amand-Montrond,Cher,Centre,Centre-Val de Loire,France
+SAINT BRIEUC,Saint-Brieuc,Côtes-d'Armor,Bretagne,,France
+SAINT CANNAT,Saint-Cannat,Yvelines,Ile-de-France,,France
+SAINT CLOUD,Saint Cloud,Hauts-de-Seine,Ile-de-France,,France
+SAINT CYR,Saint-Cyr,Yvelines,Ile-de-France,,France
+SAINT CYR SUR MORIN,Saint-Cyr-sur-Morin,Seine-et-Marne,Ile-de-France,,France
+SAINT DENIS,Saint-Denis,Seine-Saint-Denis,Ile-de-France,,France
+SAINT DENIS DE LA REUNION,Saint-Denis de La Réunion,Réunion,,,La Réunion
+SAINT DIE DES VOSGES,Saint-Dié-des-Vosges,Vosges,Lorraine,Grand Est,France
+SAINT DIZIER,Saint-Dizier,Haute-Marne,Champagne-Ardenne,Grand Est,France
+SAINT ETIENNE,Saint-Etienne,Loire,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+SAINT GAUDENS,Saint-Gaudens,Haute-Garonne,Midi-Pyrénées,Occitanie,France
+SAINT GERMAIN EN LAYE,Saint-Germain-en-Laye,Yvelines,Ile-de-France,,France
+SAINT GILLES LES HAUTS,Saint-Gilles-les-Hauts,La Réunion,,,France
+SAINT LÔ,Saint-Lô,Manche,Basse-Normandie,Normandie,France
+SAINT MALO,Saint-Malo,Ille-et-Vilaine,Bretagne,,France
+SAINT NAZAIRE,Saint-Nazaire,Loire-Atlantique,Pays-de-la-Loire,,France
+SAINT NICOLAS D ALIERMONT,Saint-Nicolas-d'Aliermont,Seine-Maritime,Haute-Normandie,Normandie,France
+SAINT OMER,Saint-Omer,Pas-de-Calais,Nord-Pas-de-Calais,Hauts-de-France,France
+SAINT POL DE LEON,Saint-Pol-de-Léon,Paris,Ile-de-France,,France
+SAINT QUENTIN,Saint-Quentin,Aisne,Picardie,Hauts-de-France,France
+SAINT QUENTIN EN YVELINES,Saint-Quentin-en-Yvelines,Yvelines,Ile-de-France,,France
+SAINT REMY LES CHEVREUSE,Saint-Rémy-lès-Chevreuse,Yvelines,Ile-de-France,,France
+SAINT SAUVEUR LE VICOMTE,Saint-Sauveur-le-Vicomte,Paris,Ile-de-France,,France
+SAINT TROPEZ,Saint-Tropez,Var,Provence-Alpes-Côte d'Azur,,France
+SAINT VAAST LA HOUGUE,Saint-Vaast-la-Hougue,Manche,Basse-Normandie,Normandie,France
+SAINTE MENEHOULD,Sainte-Menehould,Marne,Champagne-Ardenne,Grand Est,France
+SAINTES,Saintes,Charente-Maritime,Poitou-Charentes,Nouvelle-Aquitaine,France
+SAINTES MARIES DE LA MER,Saintes-Maries-de-la-Mer,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,,France
+SALINS LES BAINS,Salins-les-Bains,Jura,Franche-Comté,Bourgogne-Franche-Comté,France
+SALLES LA SOURCE,Salles-la-Source,Aveyron,Midi-Pyrénées,Occitanie,France
+SALON DE PROVENCE,Salon-de-Provence,Paris,Ile-de-France,,France
+SARLAT LA CANEDA,Sarlat-la-Canéda,Dordogne,Aquitaine,Nouvelle-Aquitaine,France
+SARREGUEMINES,Sarreguemines,Moselle,Lorraine,Grand Est,France
+SAUMUR,Saumur,Maine-et-Loire,Pays-de-la-Loire,,France
+SAVERNE,Saverne,Bas-Rhin,Alsace,Grand Est,France
+SAVIGNY EN VERON,Savigny-en-Véron,Indre-et-Loire,Centre,Centre-Val de Loire,France
+SCEAUX,Sceaux,Hauts-de-Seine,Ile-de-France,,France
+SEMUR EN AUXOIS,Semur-en-Auxois,Côte-d'Or,Bourgogne,Bourgogne-Franche-Comté,France
+SENLIS,Senlis,Oise,Picardie,Hauts-de-France,France
+SENS,Sens,Yonne,Bourgogne,Bourgogne-Franche-Comté,France
+SEPTEUIL,Septeuil,Paris,Ile-de-France,,France
+SETE,Sète,Hérault,Languedoc-Roussillon,Occitanie,France
+SEVRES,Sèvres,Hauts-de-Seine,Ile-de-France,,France
+SISTERON,Sisteron,Alpes-de-Haute-Provence,Provence-Alpes-Côte d'Azur,,France
+SOISSONS,Soissons,Aisne,Picardie,Hauts-de-France,France
+SOLUTRE,Solutré,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+SOULLANS,Soullans,Vendée,Pays-de-la-Loire,,France
+STRASBOURG,Strasbourg,Bas-Rhin,Alsace,Grand Est,France
+SURESNES,Suresnes,Hauts-de-Seine,Ile-de-France,,France
+TAHITI,Tahiti,Polynésie française,Polynésie française,,France
+TARBES,Tarbes,Hautes-Pyrénées,Midi-Pyrénées,Occitanie,France
+TENDE,Tende,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+THANN,Thann,Haut-Rhin,Alsace,Grand Est,France
+TOKYO,Tokyo,,,,Japon
+TOUL,Toul,Meurthe-et-Moselle,Lorraine,Grand Est,France
+TOULON,Toulon,Var,Provence-Alpes-Côte d'Azur,,France
+TOULOUSE,Toulouse,Haute-Garonne,Midi-Pyrénées,Occitanie,France
+TOURCOING,Tourcoing,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+TOURNUS,Tournus,Saône-et-Loire,Bourgogne,Bourgogne-Franche-Comté,France
+TOURS,Tours,Indre-et-Loire,Centre,Centre-Val de Loire,France
+TROYES,Troyes,Aube,Champagne-Ardenne,Grand Est,France
+TULLE,Tulle,Corrèze,Limousin,Nouvelle-Aquitaine,France
+VALENCE,Valence,Drôme,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+VALENCIENNES,Valenciennes,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+VALLAURIS,Vallauris,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,,France
+VALREAS,Valréas,Vaucluse,Provence-Alpes-Côte d'Azur,,France
+VANNES,Vannes,Morbihan,Bretagne,,France
+VARSOVIE,Varsovie,,,,Pologne
+VARZY,Varzy,Nièvre,Bourgogne,Bourgogne-Franche-Comté,France
+VENDÔME,Vendôme,Loir-et-Cher,Centre,Centre-Val de Loire,France
+VERDUN,Verdun,Meuse,Lorraine,Grand Est,France
+VERNON,Vernon,Eure,Haute-Normandie,Normandie,France
+VERSAILLES,Versailles,Yvelines,Ile-de-France,,France
+VESOUL,Vesoul,Doubs,Franche-Comté,Bourgogne-Franche-Comté,France
+VEZELAY,Vézelay,Yonne,Bourgogne,Bourgogne-Franche-Comté,France
+VIERZON,Vierzon,Cher,Centre,Centre-Val de Loire,France
+VILLEFRANCHE SUR SAÔNE,Villefranche-sur-Saône,Rhône,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+VILLENEUVE D ASCQ,Villeneuve-d'Ascq,Nord,Nord-Pas-de-Calais,Hauts-de-France,France
+VILLENEUVE LES AVIGNON,Villeneuve-lès-Avignon,Gard,Languedoc-Roussillon,Occitanie,France
+VILLEQUIER,Villequier,Seine-Maritime,Haute-Normandie,Normandie,France
+VILLERS COTTERETS,Villers-Cotterêts,Aisne,Picardie,Hauts-de-France,France
+VIRE,Vire,Calvados,Basse-Normandie,Normandie,France
+VITRE,Vitré,Ille-et-Vilaine,Bretagne,,France
+VITRY SUR SEINE,Vitry-sur-Seine,Val-de-Marne,Ile-de-France,,France
+VIZILLE,Vizille,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+VOIRON,Voiron,Isère,Rhône-Alpes,Auvergne-Rhône-Alpes,France
+WISSEMBOURG,Wissembourg,Bas-Rhin,Alsace,Grand Est,France
+WOERTH,Woerth,Bas-Rhin,Alsace,Grand Est,France
