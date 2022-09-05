@@ -190,6 +190,34 @@ def populate_artistes(dataset_path, file_name=r'cojoden_artistes.csv', verbose=0
                 raise error
     return nb_pop
 
+def populate_materiaux(dataset_path, file_name=r'cojoden_materiaux_techniques.csv', verbose=0):
+    nb_pop = -1
+    file_path = join(dataset_path, file_name)
+
+    if exists(file_path):
+        df = pd.read_csv(file_path)
+        if 'mat_search' not in list(df.columns):
+            df['mat_search'] = df['materiaux_technique']
+            df = convert_df_string_to_search_string(df, col_name='mat_search')
+            df = df.sort_values('mat_search')
+            df = df.drop_duplicates('mat_search')
+            df.to_csv(join(dataset_path,file_name.replace(".csv", "-v2.csv")), index=False)
+        dbConnection =_create_engine(verbose=verbose)
+        try:
+            nb_pop = df.to_sql(name='MATERIEAUX_TECHNIQUE'.lower(), con=dbConnection, if_exists='append', index=False, chunksize=10)
+        except mysql.connector.IntegrityError as error:
+            nb_pop = 0
+            if verbose > 0:
+                print(f"[cojoden_dao > populate_materiaux] WARNING : la table est déjà peuplée.\n\t- {error}")
+        except Exception as error:
+            if  "IntegrityError" in str(error):
+                nb_pop = 0
+                if verbose > 0:
+                    print(f"[cojoden_dao > populate_materiaux] WARNING : la table est déjà peuplée.\n\t- {error}")
+            else:
+                raise error
+    return nb_pop
+
 
 # ----------------------------------------------------------------------------------
 #                        PRIVATE
@@ -259,6 +287,9 @@ def _create_engine(verbose=0):
 # ----------------------------------------------------------------------------------
 if __name__ == '__main__':
     dataset_path=r'C:\Users\User\WORK\workspace-ia\PROJETS\projet_joconde\dataset'
+
+    nb = populate_materiaux(dataset_path=dataset_path, verbose=1)
+    print(f"{nb} matériaux inserted")
     nb = populate_metiers(dataset_path=dataset_path, verbose=1)
     print(f"{nb} metiers inserted")
     nb = populate_villes(dataset_path=dataset_path, verbose=1)
